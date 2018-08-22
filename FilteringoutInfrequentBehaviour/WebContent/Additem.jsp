@@ -40,6 +40,7 @@
 		</div>
 		<div class="main">
 		
+			
 				<div class="register">
 					   <div class="col_1_of_list span_1_of_list login-left">
 			                
